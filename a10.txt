@@ -1,2 +1,2 @@
-Language: ____
-Reason: ____
+Language: en
+Reason: English is the most confused language because it has the most misclassifications overall. In the SSD confusion matrix, only 1 out of 5 English ciphertexts is classified correctly, while the other 4 are mistaken for Bulgarian, Spanish, and Italian. This suggests that English has a sorted symbol distribution that is less distinct from some other languages in this dataset, even though the DPD method identifies English correctly.
